@@ -1,4 +1,4 @@
-# Fortune Cookie React App
+# Cookie React App
 
 Este projeto é uma aplicação simples em React que simula um biscoito da sorte, exibindo frases aleatórias ao clicar no botão "Abrir biscoito". 
 
